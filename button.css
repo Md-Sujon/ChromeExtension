@@ -1,0 +1,23 @@
+.container{
+  width: 205px;
+  height: 150px;
+}
+input{
+  border: none;
+  outline: none;
+  width: 100px;
+}
+
+.counter-value{
+  margin-left: 70px;
+  margin-bottom: 20px;
+  border-radius:10px;
+  color:white;
+  text-align: center;
+  height: 50px;
+  width: 70px;
+  background-color:rgb(1, 1, 1);
+font-size:30px;
+font-weight:bold;
+}
+
